@@ -1,0 +1,42 @@
+{
+  "name": "employee_data_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.6.1",
+    "@material-ui/icons": "^4.5.1",
+    "axios": "^0.19.0",
+    "git": "^0.1.5",
+    "pagination-component": "^1.6.0",
+    "react": "^16.12.0",
+    "react-awesome-modal": "^2.0.5",
+    "react-confirm-alert": "^2.4.1",
+    "react-dom": "^16.12.0",
+    "react-js-pagination": "^3.0.2",
+    "react-next-paging": "^7.0.7",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "reactjs-popup": "^1.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
